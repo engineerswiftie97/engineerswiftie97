@@ -11,8 +11,7 @@ I'm passionate about data engineering topics and building data pipelines.
 Contributed to [Apache SystemDS](https://github.com/apache/systemds)
 as part of a university project.
 
-- Collaborated on the Java implementation and testing
-  of matrix square root functionality.
+- Collaborated on the Java implementation and testing of a built-in matrix square root function.
 - Credited as a co-author in the official repository.
 
 🔗 [Pull Request #2178](https://github.com/apache/systemds/pull/2178)
