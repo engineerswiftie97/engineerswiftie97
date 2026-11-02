@@ -2,7 +2,8 @@
 
 🎓 TU Berlin, M.Sc. Computer Engineering | Specialized in Data Engineering 
 
-I'm passionate about data engineering topics and building data pipelines.
+I'm passionate about data engineering topics and building data pipelines. 
+Updates in progress. 
 
 ## Open Source Contributions:
 
